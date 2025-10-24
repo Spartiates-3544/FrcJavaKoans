@@ -1,3 +1,4 @@
+# Note: Ce dépôt est une copie directe du dépot [jletroui/FrcJavaKoans](https://github.com/jletroui/FrcJavaKoans/tree/master). Tous les crédits vont à l'équipe 3550.
 
 **[![Drapeau Français](images/french_flag.png) Français ](#french) [![English Flag](images/english_flag.png) English ](#english)**
 
